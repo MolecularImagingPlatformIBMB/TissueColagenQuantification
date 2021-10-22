@@ -1,4 +1,4 @@
-# TissueCollagenQuantification
+# Tissue ECM Quantification Version 1.0
 
 This pipeline quantifies extracellular matrix (ECM) relative protein concentrations in fixed tissues immunolabeled against validated ECM antibodies (i.e. collagen, fibronectine). Two macros are included both for intensity calibration and protein quantification. The details are explained in the article: 
 
